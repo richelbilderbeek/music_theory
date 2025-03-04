@@ -1,15 +1,15 @@
 INCLUDEPATH += \
-    ../MusicTheory
+    ../music_theory
 
 SOURCES += \
-    ../MusicTheory/musictheorymenudialog.cpp
+    ../music_theory/musictheorymenudialog.cpp
 
 HEADERS += \
-    ../MusicTheory/musictheorymenudialog.h
+    ../music_theory/musictheorymenudialog.h
 
 OTHER_FILES += \
-    ../MusicTheory/Licence.txt
+    ../music_theory/Licence.txt
 
 RESOURCES += \
-    ../MusicTheory/MusicTheory.qrc
+    ../music_theory/MusicTheory.qrc
 
