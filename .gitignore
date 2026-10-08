@@ -41,3 +41,5 @@ MusicTheory
 moc_*
 qrc_*
 MusicTheoryDesktop
+.qmake.stash
+*.gcno
