@@ -43,3 +43,5 @@ qrc_*
 MusicTheoryDesktop
 .qmake.stash
 *.gcno
+
+site/
