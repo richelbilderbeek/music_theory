@@ -8,5 +8,5 @@ MusicTheory is one of [Richèl Bilderbeek's tools](https://richelbilderbeek.gith
 
 ## Links
 
-- [Source code](https://github.com/richelbilderbeek/MusicTheory)
+- [Source code](https://github.com/richelbilderbeek/music_theory)
 - [Richèl Bilderbeek's tools](https://richelbilderbeek.github.io/tools/)
