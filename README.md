@@ -1,6 +1,6 @@
 # MusicTheory
 
-[Go to the nicely rendered website](https://richelbilderbeek.github.io/MusicTheory/).
+[Go to the nicely rendered website](https://richelbilderbeek.github.io/music_theory/).
 
 C++ tool to show chord relationships of multiple scales using Qt
 

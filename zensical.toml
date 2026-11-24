@@ -1,7 +1,7 @@
 [project]
 site_name = "MusicTheory"
-site_url = "https://richelbilderbeek.github.io/MusicTheory/"
-repo_url = "https://github.com/richelbilderbeek/MusicTheory"
+site_url = "https://richelbilderbeek.github.io/music_theory/"
+repo_url = "https://github.com/richelbilderbeek/music_theory"
 edit_uri = "blob/main/docs/"
 
 nav = [
