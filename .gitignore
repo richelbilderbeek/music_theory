@@ -45,3 +45,7 @@ MusicTheoryDesktop
 *.gcno
 
 site/
+
+wordlist.dic
+
+coverage/
